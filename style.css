@@ -81,7 +81,13 @@ hr {
   display: flex;
   justify-content: space-between;
   align-items: stretch;
-  vertical-align: baseline;
+}
+
+.navContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: stretch;
+  vertical-align: text-top;
 }
 
 .group {
