@@ -77,28 +77,8 @@ hr {
   border: 1px solid black;
 }
 
-.center {
-  text-align: center;
-  vertical-align: middle;
-}
-
-.group{
+.container {
   display: flex;
-  justify-content: center;
   align-items: center;
-  margin: 10px;
-}
-
-.horiz-align {
-  display: flex;
   justify-content: center;
-}
-
-.photo-align {
-  flex: 1;
-  margin: 10px;
-}
-
-.photo-description {
-  font-size: 14px;
 }
