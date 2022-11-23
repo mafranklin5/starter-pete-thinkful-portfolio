@@ -81,6 +81,7 @@ hr {
   display: flex;
   justify-content: space-between;
   align-items: stretch;
+  margin: 10px;
 }
 
 .navContainer {
@@ -88,6 +89,7 @@ hr {
   justify-content: space-between;
   align-items: stretch;
   vertical-align: text-top;
+  margin: 10px;
 }
 
 .group {
