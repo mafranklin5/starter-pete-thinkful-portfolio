@@ -78,6 +78,7 @@ hr {
 }
 
 .up-down-align {
+  display: flex;
+  flex-direction: row;
   text-align: center;
-  padding: 70px 0;
 }
