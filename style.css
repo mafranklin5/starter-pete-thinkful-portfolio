@@ -102,16 +102,10 @@ hr {
 
 .group {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
 }
 
 .item {
   flex: 1;
   margin: 10px;
-}
-
-.item-double {
-  flex: 1;
-  margin: 10px;
-  font-size: 14px;
 }
