@@ -77,9 +77,11 @@ hr {
   border: 1px solid black;
 }
 
-.up-down-align {
+.center {
   display: flex;
   flex-direction: row;
+  justify-content: center;
+  align-items: center;
   text-align: center;
 }
 
