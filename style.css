@@ -83,12 +83,6 @@ hr {
   align-items: stretch;
 }
 
-.navContainer {
-  display: flex;
-  justify-content: space-between;
-  align-items: stretch;
-  vertical-align: text-top;
-}
 
 .group {
   display: flex;
