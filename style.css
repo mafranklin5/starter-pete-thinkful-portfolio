@@ -82,3 +82,12 @@ hr {
   flex-direction: row;
   text-align: center;
 }
+
+.photo-align {
+  flex: 1;
+  margin: 10px;
+}
+
+.photo-description {
+  font-size: 14px;
+}
