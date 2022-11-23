@@ -77,6 +77,11 @@ hr {
   border: 1px solid black;
 }
 
+.center {
+  margin: auto;
+  text-align: center;
+}
+
 .group{
   display: flex;
   justify-content: center;
