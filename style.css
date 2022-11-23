@@ -77,17 +77,16 @@ hr {
   border: 1px solid black;
 }
 
-.center {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
 .group{
   display: flex;
   justify-content: center;
   align-items: center;
+  margin: 10px;
+}
+
+.horiz-align {
+  display: flex;
+  justify-content: center;
 }
 
 .photo-align {
