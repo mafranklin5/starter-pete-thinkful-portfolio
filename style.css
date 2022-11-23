@@ -76,3 +76,8 @@ footer {
 hr {
   border: 1px solid black;
 }
+
+.up-down-align {
+  text-align: center;
+  padding: 70px 0;
+}
