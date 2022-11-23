@@ -78,8 +78,7 @@ hr {
 }
 
 .center {
-  display: flex;
-  flex-direction: row;
+  display: inline-block;
   justify-content: center;
   align-items: center;
   text-align: center;
