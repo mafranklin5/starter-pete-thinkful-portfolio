@@ -77,8 +77,18 @@ hr {
   border: 1px solid black;
 }
 
-.container {
+.group {
   display: flex;
-  align-items: center;
-  justify-content: center;
+  flex-direction: row;
+}
+
+.item {
+  flex: 1;
+  margin: 10px;
+}
+
+.item-double {
+  flex: 1;
+  margin: 10px;
+  font-size: 14px;
 }
