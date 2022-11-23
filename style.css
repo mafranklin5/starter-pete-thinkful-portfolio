@@ -94,6 +94,10 @@ hr {
   text-align: left;
 }
 
+.portfolio-text {
+  font-size: 14px;
+}
+
 
 .group {
   display: flex;
