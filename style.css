@@ -78,8 +78,8 @@ hr {
 }
 
 .center {
-  margin: auto;
   text-align: center;
+  vertical-align: middle;
 }
 
 .group{
