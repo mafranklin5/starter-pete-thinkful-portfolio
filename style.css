@@ -80,8 +80,18 @@ hr {
 .headerContainer {
   display: flex;
   justify-content: space-between;
-  align-items: stretch;
+  align-items: center;
   vertical-align: text-top;
+}
+
+.sectionContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.text-display {
+  text-align: left;
 }
 
 
